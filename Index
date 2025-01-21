@@ -1,0 +1,2 @@
+cd smudcrypt.github.io
+echo "Hello World" > index.html
